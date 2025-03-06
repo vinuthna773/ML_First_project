@@ -1,4 +1,4 @@
-name: taxi_rides_model_training_pipeline
+name: NYC_taxi_model_training_pipeline
 on:
   schedule:
     - cron: '0 0 * * 1'  # Runs every Monday at midnight
