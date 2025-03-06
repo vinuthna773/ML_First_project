@@ -214,9 +214,11 @@ def load_shape_data_file(
 
 
 # st.set_page_config(layout="wide")
+st.set_page_config(layout="wide", page_title="NYC Taxi Demand Prediction")
+
 
 current_date = pd.Timestamp.now(tz="Etc/UTC")
-st.title(f"New York Yellow Taxi Cab Demand Next Hour")
+st.title(f"NY Taxi Demand Prediction upcoming Hour")
 st.header(f'{current_date.strftime("%Y-%m-%d %H:%M:%S")}')
 
 progress_bar = st.sidebar.header("Working Progress")
