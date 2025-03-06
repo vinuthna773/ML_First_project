@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Vinuthna/Downloads/Applied_ML_1st_project/sp25_taxi-main/notebooks/mlruns/926157406621371387/e5db74fa88c243d2b4e1f756b96978e8/artifacts
+end_time: 1741250104636
+entry_point_name: ''
+experiment_id: '926157406621371387'
+lifecycle_stage: active
+run_id: e5db74fa88c243d2b4e1f756b96978e8
+run_name: aged-skink-281
+run_uuid: e5db74fa88c243d2b4e1f756b96978e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741250102277
+status: 3
+tags: []
+user_id: vinuthna

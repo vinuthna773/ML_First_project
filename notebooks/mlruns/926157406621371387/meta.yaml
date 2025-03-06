@@ -1,0 +1,6 @@
+artifact_location: file:///Users/Vinuthna/Downloads/Applied_ML_1st_project/sp25_taxi-main/notebooks/mlruns/926157406621371387
+creation_time: 1741247303667
+experiment_id: '926157406621371387'
+last_update_time: 1741247303667
+lifecycle_stage: active
+name: lightgbm_hyperparam_tuning
